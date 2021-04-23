@@ -2,8 +2,7 @@
 - 👀 I’m interested in deep learning for motion analysis using wearable sensors. Also interested in obtaining heart rate, breathing, sleep and activity biomarkers using machine / deep learning
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on deep learning projects or algorithm development projects for health prediction using wearable sensor data
-- www.biomed-data.com
-- 📫 How to reach me: patterson.m@gmail.com
+- 📫 How to reach me: patterson.m@gmail.com    www.biomed-data.com
 
 <!---
 m-patterson-wearable/m-patterson-wearable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
